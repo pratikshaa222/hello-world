@@ -1,2 +1,3 @@
 # hello-world
-this is hello world program written in c language :
+this is hello world program written in c language .
+
